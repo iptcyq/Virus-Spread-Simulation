@@ -1,0 +1,128 @@
+New Test 16 Seconds: 106
+New Test7 Seconds: 63
+New Test8 Seconds: 75 122 84.4
+New Test10 Seconds: 21 41 25
+New Test11 Seconds: 58 78 62
+New Test12 Seconds: 41 42 41.2
+New Test13 Seconds: 84 137 94.6
+New Test14 Seconds: 56 173 79.4
+New Test15 Seconds: 23 43 27
+New Test16 Seconds: 93 87 91.8
+New Test17 Seconds: 54 61 55.4
+New Test18 Seconds: 140 147 141.4
+New Test19 Seconds: 86 139 96.6
+New Test20 Seconds: 72 135 84.6
+New Test21 Seconds: 95 190 114
+New Test22 Seconds: 84 85 84.2
+New Test23 Seconds: 167 228 179.2
+New Test24 Seconds: 109 160 119.2
+New Test25 Seconds: 66 86 70
+New Test26 Seconds: 79 95 82.2
+New Test27 Seconds: 72 101 77.8
+
+Test70 Seconds: 112
+Test72 Seconds: 38
+Test73 Seconds: 155
+Test74 Seconds: 57
+Test75 Seconds: 53
+Test76 Seconds: 94
+Test77 Seconds: 60
+Test78 Seconds: 22
+Test79 Seconds: 54
+Test80 Seconds: 8
+Test81 Seconds: 111
+Test82 Seconds: 38
+Test83 Seconds: 4
+Test84 Seconds: 96
+Test85 Seconds: 107
+Test86 Seconds: 40
+Test87 Seconds: 5
+Test88 Seconds: 17
+Test89 Seconds: 67
+Test90 Seconds: 4
+Test91 Seconds: 69
+Test92 Seconds: 57
+Test93 Seconds: 19
+Test94 Seconds: 19
+Test95 Seconds: 17
+Test96 Seconds: 43
+Test97 Seconds: 54
+Test98 Seconds: 36
+Test99 Seconds: 4
+Test100 Seconds: 43
+Test101 Seconds: 4
+Test102 Seconds: 89
+Test103 Seconds: 7
+Test104 Seconds: 5
+Test105 Seconds: 72
+
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 1
+Test INFECTED: 1
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 0
+Test NFECTED: 0
+Test INFECTED: 1
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 1
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 1
+Test INFECTED: 1
+Test INFECTED: 0
+Test INFECTED: 1
+Test INFECTED: 0
+Test INFECTED: 1
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 1
+Test INFECTED: 3
+Test INFECTED: 0
+Test INFECTED: 1
+Test INFECTED: 0
+Test INFECTED: 0
+Test INFECTED: 1
+Test 2 INFECTED: 1
+Test 3 INFECTED: 0
+Test 4 INFECTED: 0
+Test 5 INFECTED: 1
+Test 6 INFECTED: 0
+Test 7 INFECTED: 0
+Test 8 INFECTED: 0
+Test 9 INFECTED: 0
+Test 10 INFECTED: 0
+Test 11 INFECTED: 0
+Test 12 INFECTED: 0
+Test 13 INFECTED: 0
+Test 14 INFECTED: 0
+Test 15 INFECTED: 0
+Test 16 INFECTED: 0
+Test 17 INFECTED: 0
+Test 18 INFECTED: 1
+Test 19 INFECTED: 0
+Test 20 INFECTED: 1
+Test 21 INFECTED: 0
+Test 22 INFECTED: 2
+Test 23 INFECTED: 0
+Test 24 INFECTED: 1
+Test 25 INFECTED: 0
+Test 26 INFECTED: 0
+Test 27 INFECTED: 1
+Test 28 INFECTED: 0
+Test 29 INFECTED: 0
+Test 30 INFECTED: 0
+Test 31 INFECTED: 0
+Test 32 INFECTED: 1
+Test 33 INFECTED: 0
+Test 34 INFECTED: 0
+Test 35 INFECTED: 0
