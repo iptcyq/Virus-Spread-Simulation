@@ -1,7 +1,6 @@
 # Virus Spread Simulation
 Simplistic simulation model for the spread of a virus.
-Made to support our report for the Singapore Mathematical Society Essay Competition 2021. 
-
+Made to support our report (that got 1st Prize) for the Singapore Mathematical Society Essay Competition 2021. 
 
 ### v1.0: Original scripts I archived
 **Unit Script** is the code for each "person". 
